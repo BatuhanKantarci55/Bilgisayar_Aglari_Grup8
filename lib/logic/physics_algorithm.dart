@@ -1,0 +1,4 @@
+enum PhysicsAlgorithm {
+  ForceDirected,
+  BarnesHut,
+}

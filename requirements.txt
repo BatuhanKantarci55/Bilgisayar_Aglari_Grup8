@@ -1,2 +1,0 @@
-# network_generator için:
-networkx==3.4.2

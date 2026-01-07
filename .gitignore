@@ -1,0 +1,13 @@
+/android
+/ios
+/linux
+/macos
+/windows
+/web
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+/scripts/.venv/
+/scripts/algorithms/__pycache__
